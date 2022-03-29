@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IVKHK>
+    <department departmentName="IT ja Multimeedia">
+        <speciality specialityName="Tarkvaraarendaja">
+            <city cityName="Jõhvi">
+                <group groupName="JPTV20">
+                    <student>
+                        <name>Aleksei</name>
+                        <surname>Karimov</surname>
+                        <yearOfBirth>2004</yearOfBirth>
+                    </student>
+                    <student>
+                        <name>Arseni</name>
+                        <surname>Chistyakov</surname>
+                        <yearOfBirth>2004</yearOfBirth>
+                    </student>
+                    <student>
+                        <name>Dmitrii</name>
+                        <surname>Kreivald</surname>
+                        <yearOfBirth>2004</yearOfBirth>
+                    </student>
+                    <student>
+                        <name>Deniss</name>
+                        <surname>Drozdov</surname>
+                    </student>
+                </group>
+                <group groupName="JPTV21">
+                    <student>
+                        <name>Stefan</name>
+                        <surname>Robalko</surname>
+                        <yearOfBirth>2003</yearOfBirth>
+                    </student>
+                    <student>
+                        <name>Nikita</name>
+                        <surname>Chistokletov</surname>
+                        <yearOfBirth>2005</yearOfBirth>
+                    </student>
+                </group>
+            </city>
+        </speciality>
+    </department>
+</IVKHK>

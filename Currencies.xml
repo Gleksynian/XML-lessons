@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <currency>
+        <symbol>₽</symbol>
+        <country>Russia</country>
+        <name>Rouble</name>
+        <abbreviation>RUB</abbreviation>
+    </currency>
+    <currency>
+        <symbol>$</symbol>
+        <country>USA</country>
+        <name>Dollar</name>
+        <abbreviation>USD</abbreviation>
+    </currency>
+    <currency>
+        <symbol>€</symbol>
+        <country>Estonia</country>
+        <name>Euro</name>
+        <abbreviation>EUR</abbreviation>
+    </currency>
+    <currency>
+        <symbol>¥</symbol>
+        <country>Japan</country>
+        <name>Yen</name>
+        <abbreviation>JPY</abbreviation>
+    </currency>
+    <currency>
+        <symbol>₤</symbol>
+        <country>United Kingdom</country>
+        <name>Pound Sterling</name>
+        <abbreviation>GBP</abbreviation>
+    </currency>
+    <currency>
+        <symbol>₩</symbol>
+        <country>Korea</country>
+        <name>Won</name>
+        <abbreviation>KPW</abbreviation>
+    </currency>
+    <currency>
+        <symbol>€</symbol>
+        <country>Finland</country>
+        <name>Euro</name>
+        <abbreviation>EUR</abbreviation>
+    </currency>
+    <currency>
+        <symbol>₦</symbol>
+        <country>Nigeria</country>
+        <name>Naira</name>
+        <abbreviation>NGN</abbreviation>
+    </currency>
+    <currency>
+        <symbol>$</symbol>
+        <country>Canada</country>
+        <name>Canadian dollar</name>
+        <abbreviation>CAD</abbreviation>
+    </currency>
+    <currency>
+        <symbol>zł</symbol>
+        <country>Poland</country>
+        <name>Złoty</name>
+        <abbreviation>PLN</abbreviation>
+    </currency>
+    <currency>
+        <symbol>₴</symbol>
+        <country>Ukraine</country>
+        <name>Hryvnia</name>
+        <abbreviation>UAH</abbreviation>
+    </currency>
+</root>
